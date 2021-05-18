@@ -86,7 +86,7 @@ NoteList使用SimpleCursorAdapter来装配数据
 
 2. 导入项目报错
 
-3. ![sync报错]https://github.com/ZW-Q/NotePad-Plus/blob/master/images/image-20210517144720221.png)
+3. ![sync报错](https://github.com/ZW-Q/NotePad-Plus/blob/master/images/image-20210517144720221.png)
 
 4. 此时不能按照Android Studio的提示`Install missing platform(s) and sync project`,该操作仍然会报错
 
